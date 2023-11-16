@@ -1,0 +1,76 @@
+
+p {
+  margin: 0;
+  padding: 0;
+  font-size: larger;
+}
+
+/* Header styles */
+header {
+  background-color:yellow; /* Light grey background */
+  padding: 50px;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  margin-right: 15px;
+}
+
+/* Main section styles */
+.jumbotron {
+  background-color: #007bff; /* Primary blue color from Bootstrap */
+  color:black; /* White text */
+  padding: 50px 0;
+}
+
+.jumbotron h1 {
+  font-size: 2.5em;
+}
+
+.jumbotron p {
+  font-size: 1.2em;
+}
+
+/* Service section styles */
+.container h2 {
+  margin-top: 30px;
+  background-color: black;
+}
+
+.card {
+  border: none;
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  height: 200px; /* Adjust the height of the service images */
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1.2em;
+}
+
+/* Footer styles (if needed) */
+footer {
+  background-color:black; /* Light grey background */
+  padding: 10px 0;
+  text-align: center;
+} 
