@@ -1,0 +1,5 @@
+scrum master: Gunasekaran
+bussiness analyst : Dhahinya,harene
+devlopers : guru,ash
+designer: guna,ezhil
+tester :hariharan
